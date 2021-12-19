@@ -1,0 +1,64 @@
+1-push
+ 2-pop
+ 3-peek
+ 4-display
+ 5-exit
+enter choice1
+enter element1
+1-push
+ 2-pop
+ 3-peek
+ 4-display
+ 5-exit
+enter choice4
+1
+1-push
+ 2-pop
+ 3-peek
+ 4-display
+ 5-exit
+enter choice1
+enter element2
+1-push
+ 2-pop
+ 3-peek
+ 4-display
+ 5-exit
+enter choice4
+2
+1
+1-push
+ 2-pop
+ 3-peek
+ 4-display
+ 5-exit
+enter choice1
+enter element3
+1-push
+ 2-pop
+ 3-peek
+ 4-display
+ 5-exit
+enter choice4
+3
+2
+1
+1-push
+ 2-pop
+ 3-peek
+ 4-display
+ 5-exit
+enter choice2
+deleted element is 3
+1-push
+ 2-pop
+ 3-peek
+ 4-display
+ 5-exit
+enter choice3
+top element is 2
+1-push
+ 2-pop
+ 3-peek
+ 4-display
+ 5-exit
