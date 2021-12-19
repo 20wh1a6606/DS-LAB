@@ -1,0 +1,54 @@
+Enter your choice: 
+1: enque
+2: deque
+3: display
+4: exit
+1
+Enter the element inserted into the queue: 
+2
+Enter your choice: 
+1: enque
+2: deque
+3: display
+4: exit
+3
+2Enter your choice: 
+1: enque
+2: deque
+3: display
+4: exit
+1
+Enter the element inserted into the queue: 
+2
+Enter your choice: 
+1: enque
+2: deque
+3: display
+4: exit
+3
+2       2Enter your choice: 
+1: enque
+2: deque
+3: display
+4: exit
+1
+Enter the element inserted into the queue: 
+4
+Enter your choice: 
+1: enque
+2: deque
+3: display
+4: exit
+3
+2       2       4Enter your choice: 
+1: enque
+2: deque
+3: display
+4: exit
+2
+Deleted element = 2
+Enter your choice: 
+1: enque
+2: deque
+3: display
+4: exit
