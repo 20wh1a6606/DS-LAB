@@ -1,0 +1,47 @@
+Enter your choice: 
+1: enqueue
+2: dequeue
+3: display
+4: exit
+1
+enter cur data2
+Enter your choice: 
+1: enqueue
+2: dequeue
+3: display
+4: exit
+3
+2
+Enter your choice: 
+1: enqueue
+2: dequeue
+3: display
+4: exit
+1
+enter cur data4
+Enter your choice: 
+1: enqueue
+2: dequeue
+3: display
+4: exit
+3
+2
+4
+Enter your choice: 
+1: enqueue
+2: dequeue
+3: display
+4: exit
+2
+Deleted element is 2Enter your choice: 
+1: enqueue
+2: dequeue
+3: display
+4: exit
+3
+4
+Enter your choice: 
+1: enqueue
+2: dequeue
+3: display
+4: exit
