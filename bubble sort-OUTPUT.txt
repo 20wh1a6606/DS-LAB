@@ -1,0 +1,15 @@
+OUTPUT
+enter the no of elements
+5
+enter the integers 
+5
+4
+3
+2
+1
+sorted list in ascending order
+1
+2
+3
+4
+5
